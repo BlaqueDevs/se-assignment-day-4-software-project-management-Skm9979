@@ -6,7 +6,7 @@
 Timely delivery is essential in software project management because delays can lead to cost overruns, customer dissatisfaction, and lost business opportunities. It also impacts the product's relevance in the market. Project managers can ensure deadlines are met by setting realistic goals, continuously monitoring progress, managing scope changes, and addressing any roadblocks promptly. Techniques like defining clear milestones, using project management tools (e.g., Jira, Trello), and fostering team collaboration can help keep projects on track.
 
 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
-Effective cost control ensures that a project stays within budget, preventing financial strain and ensuring profitability. Strategies to prevent budget overruns include:
+Effective cost control ensures that a project stays within budget, preventing financial strain and ensuring profitability. Strategies to prevent budget overruns include
 
 Detailed planning and estimation: Properly estimate costs and break down tasks into smaller, manageable components.
 
